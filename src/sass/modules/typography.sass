@@ -1,0 +1,40 @@
+// Author: Conor O'Mahony
+// Assignment: FDWM2 Assessment 1 - Street Art Finder
+// Student ID: STU-00001490
+// Date: 2018/02/26
+//
+// SASS stylesheet for typography
+
+@import ../../../node_modules/bootstrap/scss/mixins/_breakpoints.scss
+@import ../../../node_modules/bootstrap/scss/functions
+@import ../../../node_modules/bootstrap/scss/_variables.scss
+
+// responsive typography
+html
+    font-size: 0.8rem
+
++media-breakpoint-up(md)
+    html
+        font-size: 1rem
+
+
++media-breakpoint-up(lg)
+    html
+        font-size: 1.2rem
+
+
++media-breakpoint-up(xl)
+    html
+        font-size: 1.4rem
+
+
+// web fonts
+@font-face
+    font-family: "humgerregular"
+    src: url("../fonts/humger-webfont.woff2") format("woff2"), url("../fonts/humger-webfont.woff") format("woff")
+    font-weight: normal
+    font-style: normal
+
+.cons-display-font
+    font-family: "humgerregular", "Roboto", sans-serif
+    text-transform: uppercase
