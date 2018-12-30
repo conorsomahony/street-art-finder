@@ -1,8 +1,9 @@
+# Street Art Finder
 * Recreate the wireframe page in three different resolution sizes, using the Bootstrap framework.
 * When a user clicks on the Share button in the first box this should trigger the Share modal that is displayed on the second screen.
 * As this is just a wireframe you are asked to add colour and styling to elements.
 
-# REFERENCES:
+# References:
 ## Development folder setup (including Bootstrap, SASS and CSS setup)
 * https://www.youtube.com/watch?v=Mu74UmFBAq8&t=3s
 
