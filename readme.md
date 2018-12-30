@@ -1,8 +1,7 @@
-# Submission
-* Author: Conor O'Mahony
-* Assignment: FDWM2 Assessment 1 - Street Art Finder
-* Student ID: STU-00001490
-* Date: 2018/02/26 
+# Project Description
+* Recreate the wireframe page in three different resolution sizes, using the Bootstrap framework.
+* When a user clicks on the Share button in the first box this should trigger the Share modal that is displayed on the second screen.
+* As this is just a wireframe you are asked to add colour and styling to elements.
 
 # REFERENCES:
 ## Development folder setup (including Bootstrap, SASS and CSS setup)
